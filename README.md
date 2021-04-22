@@ -65,5 +65,5 @@
     * [x] Builded a listing management website using `Vlocity`, `LWC`
 ## Education
 
-### Hue University of Sciences, Vietnam `2010-2005`
+### Hue University of Sciences, Vietnam `2010-2015`
 - [x] Engineering degree in Electronics and Telecommunications
