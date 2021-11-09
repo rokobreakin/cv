@@ -2,8 +2,7 @@
 
 * Senior full-stack developer at `Metta Depth LLC`
 * Working experience in Vietnam.
-* Email: [rokobreakin@gmail.com](mailto:rokobreakin@gmail.com)
-* Phone: [+84932419363](tel:+84932419363)
+* Email: [pnguyen@mettadepth.com](mailto:pnguyen@mettadepth.com)
 
 ## Expertise
 
